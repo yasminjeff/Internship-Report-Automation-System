@@ -1,8 +1,8 @@
 # Internship-Report-Automation-System
 
-🧠 1. Project Idea (What you are building)
+🧠 1. Project Idea 
 
-You are building a system that helps interns or employees:
+I'm building a system that helps interns or employees:
 
 🧾 Input:
 Fill in daily/weekly work logs
